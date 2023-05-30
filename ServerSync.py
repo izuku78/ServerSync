@@ -57,4 +57,4 @@ async def on_message(message):
         embed.add_field(name="?remove", value="remove channels to the list of target channels.", inline=False)
         await message.channel.send(embed=embed)
 
-bot.run('MTExMTg5MjU2NzA2NDMxMzkxNw.GwPdvI.yabpPi0e_fC4fV1X9mPkKw-tvj81xBN4EF52cM')
+bot.run('YOUR_BOT_TOKEN')
