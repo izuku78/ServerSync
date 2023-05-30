@@ -1,0 +1,6 @@
+1) Only the channel ID will be taken. There is no database connected for now so the channels are all stored in the bot and are not to be seen by me.
+2) I dont take data nor i need it.
+3) Not using.
+4) Non.
+5) They can my server using this link https://discord.gg/QwjByt6DGQ
+6) No data stored. But if they want to remove the registered channel from bot they can use ?remove cmd.
